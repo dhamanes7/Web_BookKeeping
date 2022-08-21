@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Shubham\web\BookKeeping\BookKeeping\BookKeeping
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Shubham/web/BookKeeping/BookKeeping/BookKeeping/Views/BookModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va01vZGVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Shubham/web/BookKeeping/BookKeeping/BookKeeping/Views/BookModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va01vZGVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Shubham/web/BookKeeping/BookKeeping/BookKeeping/Views/BookModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va01vZGVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Shubham/web/BookKeeping/BookKeeping/BookKeeping/Views/BookModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va01vZGVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Shubham/web/BookKeeping/BookKeeping/BookKeeping/Views/BookModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va01vZGVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Shubham/web/BookKeeping/BookKeeping/BookKeeping/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

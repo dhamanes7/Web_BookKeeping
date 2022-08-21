@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using BookKeeping.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<BookKeepingContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("BookKeepingContext") ?? throw new InvalidOperationException("Connection string 'BookKeepingContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
